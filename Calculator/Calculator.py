@@ -1,3 +1,7 @@
+#Command Line simple airthmetic calculator
+#Project for CodSoft Internship
+#Naman Kalra
+
 x,y=0,0
 def add():
     x,y=int(input("Enter the First number:")),int(input("Enter the Second number:"))
@@ -26,7 +30,7 @@ if __name__=="__main__" :
     print("\n")
     
     while True:
-        print("What would you like to do today??")
+        print("What Airthmetic Operation would you like to try??")
         print("---------------------------------")
         print("1. Addition.")
         print("2. Subtraction.")
