@@ -1,4 +1,6 @@
 #Rock Paper Scissors Game
+#Project for CodSoft Internship
+#Naman Kalra
 import random
 
 options=[1,2,3]
